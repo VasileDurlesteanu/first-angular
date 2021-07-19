@@ -1,5 +1,3 @@
-# Local host link
-http://localhost:4200/
 # MyFirstAngularProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
